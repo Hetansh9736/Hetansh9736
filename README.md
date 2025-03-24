@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Hetansh! 👋</h1>
 
 🚀 **Frontend → Full-Stack Developer**  
-💻 **MERN Stack | React | Node.js | TailwindCSS**  
+💻 **MERN Stack | React | Next.js | TailwindCSS**  
 🎯 **Building Scalable Web Apps & Learning New Tech**  
 
 ---
