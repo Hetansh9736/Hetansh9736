@@ -8,7 +8,7 @@
 
 ### 🔥 About Me  
 - 🚀 Passionate about **frontend & full-stack development**  
-- 🔍 Currently learning **Node.js, Express, MongoDB**  
+- 🔍 Currently learning **React, Next.js, Node.js, Express, MongoDB**  
 - 🎨 Love crafting **beautiful & functional UIs**  
 - 📫 Open for **freelance projects & collaborations**  
 
@@ -34,17 +34,15 @@
 🎵 A sleek music player with **custom controls & responsive design**.  
 🔗 [Live Demo](https://music-player-99.netlify.app/) | 💻 [GitHub Repo](#)  
 
-#### **3️⃣ Tiga Tap – Freelance Real-Estate Website**  
+#### **3️⃣ Tiga Tap – freelancing Project**  
 🏡 First client project! Built with **React & TailwindCSS** for smooth UI/UX.  
 🔗 [Live Demo](https://www.dobak.xyz/tiga-tap)  
 
 ---
 
 ### 📫 Connect with Me  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
-
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](x.com/hetansh9736)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hetansh-sachaniya/)  
 ---
 
 🚀 **Always Learning, Always Building!**  
