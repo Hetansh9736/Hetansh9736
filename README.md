@@ -48,7 +48,7 @@
 💻 **Code:** [GitHub Repo](https://github.com/Hetansh9736/music-player)  
 🛠 **Tech:** HTML, CSS, JavaScript  
 
-### **3️⃣ Tiga Tap – Freelance Real Estate Project 🏡**  
+### **3️⃣ Tiga Tap – Frelancing Project**  
 📍 **Live:** [Tiga Tap](https://www.dobak.xyz/tiga-tap)  
 💻 **Code:** [GitHub Repo](https://github.com/Hetansh9736/Flip-the-coin)  
 🛠 **Tech:** React
